@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherDemoApp</string>
+    <string name="str_loading">Loading</string>
+</resources>
